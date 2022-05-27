@@ -1,2 +1,2 @@
 # ucn_disc_ros
-Package para ros, Distribución Noetic Ninjemys
+Package para ROS, Distribución Noetic Ninjemys
