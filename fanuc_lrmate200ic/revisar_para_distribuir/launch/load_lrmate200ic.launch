@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <launch>
-  <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find fanuc_lrmate200ic_support)/urdf/lrmate200ic.xacro'" />
+    <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find fanuc_lrmate200ic)/fanuc_lr200ic_xacro/lrmate200ic.xacro'" />
 </launch>
 ##arreglar todos los path
