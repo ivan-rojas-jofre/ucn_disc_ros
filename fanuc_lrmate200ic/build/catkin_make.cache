@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/nagorik/distro/ucn_disc_ros/fanuc_lrmate200ic/devel -DCMAKE_INSTALL_PREFIX=/home/nagorik/distro/ucn_disc_ros/fanuc_lrmate200ic/install -G Unix Makefiles

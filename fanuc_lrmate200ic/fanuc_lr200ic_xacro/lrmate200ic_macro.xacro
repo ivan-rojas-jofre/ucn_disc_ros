@@ -8,7 +8,8 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_lr200ic_urdf/meshes/lrmate200ic/visual/base_link.stl"/>
+          <mesh filename="package://fanuc_lrmate200ic/fanuc_lr200ic_urdf/meshes/collision/base_link.stl"/>
+        
         </geometry>
         <xacro:material_fanuc_gray24 />
       </visual>
